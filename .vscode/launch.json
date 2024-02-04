@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/mqbrokerpy/src/mqbrokerpy/__main__.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
